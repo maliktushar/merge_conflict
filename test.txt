@@ -1,1 +1,1 @@
-solving merge conflict for task 1.2.
+Resolving merge conflict for task 1.2.
